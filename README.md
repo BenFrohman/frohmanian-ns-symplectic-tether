@@ -1,6 +1,7 @@
 # Frohmanian Symplectic Tether
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Sponsor](https://img.shields.io/github/sponsors/BenFrohman?label=Sponsor&logo=github)](https://github.com/sponsors/BenFrohman)
 
 A geometric program for the **3D incompressible Navier–Stokes global-regularity problem**, centered on the
 *Frohmanian Symplectic Tether* — a construction on coadjoint orbits that produces controllable negative
@@ -9,7 +10,7 @@ feedback at maxima of the vorticity, coupled to a tethered Lyapunov / enstrophy 
 This repository is the landing page for the program. The **Lean 4 formalization**, blueprint, and manuscripts
 live in the companion repository:
 
-➡️ **[BenFrohman/NS_Millennium_Proof](https://github.com/BenFrohman/NS_Millennium_Proof)**
+➔ **[BenFrohman/NS_Millennium_Proof](https://github.com/BenFrohman/NS_Millennium_Proof)**
 
 > ### Honest scope
 > This is an active research program and a **priority-preserving** body of work. It contains novel geometric
@@ -29,6 +30,10 @@ live in the companion repository:
 Original author and originator: **Benjamin Stanley Frohman** (@Investor0x / Bit21), 2026. The named
 constructions above are original to this work. See the companion repository's `AUTHORS.md`, `CITATION.cff`, and
 history for attribution and provenance.
+
+## Support
+
+Independent research. If this program is useful: **[Sponsor on GitHub](https://github.com/sponsors/BenFrohman)**.
 
 ## License
 
