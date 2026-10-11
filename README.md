@@ -12,6 +12,8 @@ live in the companion repository:
 
 ➔ **[BenFrohman/NS_Millennium_Proof](https://github.com/BenFrohman/NS_Millennium_Proof)**
 
+Current formalization status (conditional regularity closed; rate derivation open): see `STATUS-2026-10-10.md` in the companion repository.
+
 > ### Honest scope
 > This is an active research program and a **priority-preserving** body of work. It contains novel geometric
 > definitions and architecture, schematic proof skeletons, and remaining analytic work. **It does not claim a
