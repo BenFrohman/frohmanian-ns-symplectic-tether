@@ -1,3 +1,4 @@
+<!-- Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under Apache-2.0. -->
 # Frohmanian Symplectic Tether
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -29,7 +30,7 @@ Current formalization status (conditional regularity closed; rate derivation ope
 
 ## Authorship and priority
 
-Original author and originator: **Benjamin Stanley Frohman** (@Investor0x / Bit21), 2026. The named
+Original author and originator: **Benjamin Stanley Frohman**, 2026. The named
 constructions above are original to this work. See the companion repository's `AUTHORS.md`, `CITATION.cff`, and
 history for attribution and provenance.
 
